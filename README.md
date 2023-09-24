@@ -2,7 +2,7 @@
 - 👨‍🎓 Persuing Mechatronics engineering.
 - 🌱 I’m currently learning Matlab and Python.
 - 🧑‍💻 Good in PLC programming, control system and computer programming.
-- 💞️ Loves to accept changelling tasks.
+- 💞️ Loves to accept challenging tasks.
 - 📫 Reach me through gowthamvaithi03@gmail.com
 
 <!---
