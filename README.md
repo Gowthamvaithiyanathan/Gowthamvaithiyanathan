@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gowtham Vaithiyanathan
 - 👨‍🎓 Persuing Mechatronics engineering.
-- 🌱 I’m currently learning Matlab and Python.
+- 🌱 Learning Industrail automation and Automobile.
 - 🧑‍💻 Good in PLC programming, control system and computer programming.
 - 💞️ Loves to accept challenging tasks.
 - 📫 Reach me through gowthamvaithi03@gmail.com
